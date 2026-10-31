@@ -7,7 +7,7 @@
 ## Description des observations
 Deux sites et trois espèces sont représentés.
 ## Résultats
-Le Site_A contient 25 individus observés.
+Le Site_A contient 27 individus observés.
 Le Site_B contient 31 individus observés.
 ## Conclusion
 Ce projet permet de partager les données
